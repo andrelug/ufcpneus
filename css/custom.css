@@ -1,0 +1,11 @@
+.nav-sticky {
+	height: 105px;
+}
+@media only screen and (max-width: 767px) {
+	.hero-slider .slides li {
+	    height: 180px;
+	}
+	.hero-slider {
+		margin-top: 78px !important;
+	}
+}
